@@ -8,7 +8,7 @@ encapsulation, arrays, and methods.
 This application was designed under the supervision of Jonas Schmedtmann and his JavaScript course. The application will constantly
 be improved in the future independently. 
 
-![image](https://user-images.githubusercontent.com/79553858/131170905-0bb34eaf-6bf8-4191-aa71-20f3da1f809c.png)
+![image](https://user-images.githubusercontent.com/79553858/131171018-56636ada-9164-4cee-af83-614ddcdd0838.png)
 
 
 The demo of the application: **https://workoutlogger.netlify.app**
